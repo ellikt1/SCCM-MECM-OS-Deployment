@@ -80,13 +80,13 @@ CM01 is the focal point of the lab environment, featuring a robust configuration
 
 <h2>Operating Systems Deployed</h2>
 
-- <b>Windows 10 Enterprise (64-bit) 22H2:</b> dasfdfsda
+- <b>Windows 10 Enterprise (64-bit) 22H2</b>
 
 
-- <b>Windows 11 Enterprise (64-bit) 23H2:</b>  asdsadsadsa
+- <b>Windows 11 Enterprise (64-bit) 23H2</b>  
 
 
-- <b>Windows Server 2022 (64-bit) 21H2:</b> adsdsadsa
+- <b>Windows Server 2022 (64-bit) 21H2</b>
 
 
 <h2>Utilities & software Used</h2>
